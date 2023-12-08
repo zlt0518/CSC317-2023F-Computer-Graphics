@@ -1,0 +1,164 @@
+{
+    "goal": "photograph of a home you'd like to live in",
+    "pairs": [{
+            "prompt": "bedroom with window",
+            "model": "SDv1.5",
+            "seed": 42,
+            "image-path": "image-1.jpg",
+            "correct": "the bed and window in the room is correct",
+            "incorrect": "the wall color and the decoration in the room is worng, and the scenery out side window is not what I want"
+        },
+        {
+            "prompt": "white bedroom with sea outside window",
+            "model": "SDv1.5",
+            "seed": 42,
+            "image-path": "image-2.jpg",
+            "correct": "the scenery outside window(sea) and the wall color is correct",
+            "incorrect": "the scenery behind the sea is wrong, desire for snow mountain behind the sea "
+        },
+        {
+            "prompt": "white bedroom with sea and snow mountains outside window",
+            "model": "SDv1.5",
+            "seed": 42,
+            "image-path": "image-3.jpg",
+            "correct": "The scenery outside the window is correct",
+            "incorrect": "Missing the decoration for inside the room"
+        },
+        {
+            "prompt": "It is a white bedroom with sea and snow mountains outside window.There is a sofa in front of the window",
+            "model": "SDv1.5",
+            "seed": 42,
+            "image-path": "image-4.jpg",
+            "correct": "the sea and mountains scenery are correct and the sofa is correct",
+            "incorrect": "the theme of the bedroom is not white"
+        },
+        {
+            "prompt": "It is a white bedroom with sea and snow mountains outside the floor-to-ceiling window.There is a sofa in front of the window.",
+            "model": "SDv1.5",
+            "seed": 42,
+            "image-path": "image-5.jpg",
+            "correct": "the snow mountain outside is correct, the white theme and the sofa is also correct",
+            "incorrect": "missing the sea in the out of windowscenery"
+        },
+        {
+            "prompt": "It is a bedroom with sea and snow mountains outside the floor-to-ceiling window.The wall and the ceilings are white. There is a sofa in front of the window.",
+            "model": "SDv1.5",
+            "seed": 42,
+            "image-path": "image-6.jpg",
+            "correct": "the snow mountain outside is correct, the foor to ceiling window is also corect",
+            "incorrect": "missing the sofa near the window"
+        },
+        {
+            "prompt": "It is a bedroom with sea and snow mountains outside the floor-to-ceiling window.The wall and the ceilings of the room are white color. There is a sofa in front of the window.",
+            "model": "SDv1.5",
+            "seed": 42,
+            "image-path": "image-7.jpg",
+            "correct": "the scenery outside window(sea) and the wall color is correct, the floor to ceiling window is also correct",
+            "incorrect": "missing the sofa near the window"
+        },
+        {
+            "prompt": "The bedroom is white for both ceiling and walls. There is sea and snow mountains outside the floor-to-ceiling window. There is a sofa in front of the window.",
+            "model": "SDv1.5",
+            "seed": 26,
+            "image-path": "image-8.jpg",
+            "correct": "the scenery outside window(sea) and the wall color is correct, the floor to ceiling window is also correct",
+            "incorrect": "missing the sofa near the window"
+        },
+        {
+            "prompt": "It is a bedroom with sea and snow mountains outside the floor-to-ceiling window.The bed is in front of the window facing outside.The bedroom is white for both ceiling and walls. ",
+            "model": "SDv1.5",
+            "seed": 22,
+            "image-path": "image-9.jpg",
+            "correct": "the scenery outside window(sea) and the wall color is correct, the floor to ceiling window is also correct , the position of the bed is correct as well",
+            "incorrect": "Nothing"
+        },
+        {
+            "prompt": "It is a bedroom with sea and snow mountains outside the floor-to-ceiling window.The bed is in front of the window facing outside.The bedroom is white for both ceiling and walls.There is a vase on the nightstand near the bed",
+            "model": "SDv1.5",
+            "seed": 35,
+            "image-path": "image-10.jpg",
+            "correct": "the scenery outside window and the wall color is correct ,the vase and the flower on nightstand is correct",
+            "incorrect": "floor-to-ceiling window is incorrect "
+        },
+        {
+            "prompt": "It is a bedroom with sea and snow mountains outside the floor-to-ceiling window.The bed is  in front of the floor-to-ceiling window.The bedroom is white for both ceiling and walls.There is a vase on the nightstand near the bed",
+            "model": "SDv1.5",
+            "seed": 53,
+            "image-path": "image-11.jpg",
+            "correct": "the vase and the flower on nightstand is correct",
+            "incorrect": "floor-to-ceiling window is incorrect,missing the snow mountain in the scenery outside the window"
+        },
+        {
+            "prompt": " bedroom scene with a panoramic view of the sea and snow-capped mountains through a floor-to-ceiling window. Position the bed in front of the window, and depict the entire bedroom in white, including both the ceiling and walls. Additionally, include a vase on the nightstand near the bed",
+            "model": "SDv1.5",
+            "seed": 48,
+            "image-path": "image-12.jpg",
+            "correct": "sea and snow-capped mountains through a floor-to-ceiling window , bed is in right place, vase in in correct place",
+            "incorrect": "nothing"
+        },
+        {
+            "prompt": "bedroom scene that features a panoramic view of the sea and snow-capped mountains through a floor-to-ceiling window. Place a  bed in the forefront, positioned to allow an unobstructed view of the landscape. Including a delicate vase on the nightstand near the bed",
+            "model": "SDv1.5",
+            "seed": 42,
+            "image-path": "image-13.jpg",
+            "correct": "sea and snow-capped mountains through a floor-to-ceiling window , bed is in right place, vase in in correct place",
+            "incorrect": "the theme of the bedroom is not fully white"
+        },
+        {
+            "prompt": "a white bedroom scenario emphasizing a panoramic view of the sea and snow-capped mountains visible through a floor-to-ceiling window. Place the bed strategically to optimize the view, and depict the entire bedroom in pristine white. Enhance the overall aesthetic by including a vase on the nightstand near the bed for a touch of elegance",
+            "model": "SDv1.5",
+            "seed": 91,
+            "image-path": "image-14.jpg",
+            "correct": "the white theme is correct, sea and snow-capped mountains through a floor-to-ceiling window throught a window is correct and the vase and the bed are both correct ",
+            "incorrect": "nothing"
+        },
+        {
+            "prompt": " a white bedroom ambiance with a panoramic view of the sea and snow-capped mountains through a floor-to-ceiling window. Position the bed for an unobstructed view and design the entire bedroom in  white, extending to both the ceiling and walls. Add a vase on the nightstand near the bed",
+            "model": "SDv1.5",
+            "seed": 83,
+            "image-path": "image-15.jpg",
+            "correct": "the white room theme,the scenery outside the window are correct, the position of the bed is ok",
+            "incorrect": "missing the vase on the night stand "
+        },
+        {
+            "prompt": "a peaceful bedroom with a floor-to-ceiling window offering a panoramic view of the sea and snow-capped mountains. Place the bed strategically to maximize the view and design the entire bedroom in a calming pristine white, extending from the ceiling to the walls. Enhance the ambiance with a vase delicately placed on the nightstand near the bed.",
+            "model": "SDv1.5",
+            "seed": 47,
+            "image-path": "image-16.jpg",
+            "correct": "floor-to-ceiling window is correct, the scenery of sea and mountain is correct",
+            "incorrect": "missing the vase on the night stand, a balcony outside in the scenery, not fully white theme "
+        },
+        {
+            "prompt": "a  bedroom  featuring a panoramic view of the sea and snow-capped mountains through a floor-to-ceiling window. Position a cozy bed in front of the window, and surround the entire bedroom with a pristine white aesthetic, including both the ceiling and walls. Integrate a vase on the nightstand near the bed",
+            "model": "SDv1.5",
+            "seed": 32,
+            "image-path": "image-17.jpg",
+            "correct": "the view of outside the widow, the white theme of room, the vase and so are all correct",
+            "incorrect": "nothing"
+        },
+        {
+            "prompt": "a bedroom scene featuring a panoramic view of the sea and snow-capped mountains visible through a floor-to-ceiling window. Design the bedroom with a minimalist touch, using pristine white for both the ceiling and walls. Position the bed in front of the window for an optimal view and include an vase on the nightstand",
+            "model": "SDv1.5",
+            "seed": 38,
+            "image-path": "image-18.jpg",
+            "correct": "the view of outside the widow, the white theme of room",
+            "incorrect": "missing the vase on the night stand,wrong color for the window frame(should be white)"
+        },
+        {
+            "prompt": " a calming bedroom with a floor-to-ceiling window offering a panoramic view of the sea and snow-capped mountains. Design the entire space in pristine white, from the ceiling to the walls, and position the bed for an optimal view. Enhance the aesthetic with a carefully placed vase on the nightstand near the bed",
+            "model": "SDv1.5",
+            "seed": 46,
+            "image-path": "image-19.jpg",
+            "correct": "the view of outside the widow, the white theme of room",
+            "incorrect": "missing the vase on the night stand"
+        },
+        {
+            "prompt": "a visually stunning bedroom scene with a floor-to-ceiling window providing a panoramic view of the sea and snow-capped mountains. Design the entire bedroom in pristine white, including both the ceiling and walls. Position the bed and softa in front of the window to maximize the view and add an elegant touch with a vase on the nightstand near the bed",
+            "model": "SDv1.5",
+            "seed": 42,
+            "image-path": "image-20.jpg",
+            "correct": "the view of outside the widow, the white theme of room, the vase and so are all correct",
+            "incorrect": "Nothing"
+        }
+    ]
+}

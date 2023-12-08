@@ -1,0 +1,27 @@
+{
+    "title": "The Color Purple",
+    "genre": "drama",
+    "constraints": [
+        "two African American women",
+        "one woman is adolescent, one is adult",
+        "the adult is wearing a straw hat",
+        "a southern-style house in the distance"
+    ],
+    "pairs": [{
+            "prompt": "a  film poster titled' The Color Purple,' with two African American women, one adolescent and the other an adult in a straw hat, set against the evocative backdrop of a southern-style house",
+            "image-path": "movie-poster-1.jpg"
+        },
+        {
+            "prompt": "a movie poster titled ' The Color Purple,' showcasing the journey of two African American women—one young and one adult, the latter adorned with a straw hat—framed by the ambiance of a distant southern-style house",
+            "image-path": "movie-poster-2.jpg"
+        },
+        {
+            "prompt": "  a movie poster titled 'The Color Purple,' featuring two pretty African American women—one an adolescent and the other an adult wearing a straw hat—set against the backdrop of a southern-style house in the distance",
+            "image-path": "movie-poster-3.jpg"
+        },
+        {
+            "prompt": "a film poster titled 'The Color Purple,' featuring two African American women—one in her youth, the other in a straw hat—set amidst the enchanting scenery of a southern-style house in the distance.",
+            "image-path": "movie-poster-4.jpg"
+        }
+    ]
+}
