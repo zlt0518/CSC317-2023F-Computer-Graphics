@@ -4,6 +4,14 @@
 #include <functional>
 #include "vertex_triangle_adjacency.h"
 
+  /*
+  Note:
+  I could not finish this task, and neither did most of my classmates.The average for this assignment is much lower than other assignments (~87%), and I still managed to receive 90.5% for this assignment.
+  so it its ok! Don't worry about this part.
+  It is not worth wasting your time on this part. 
+  */
+
+
 void catmull_clark(
   const Eigen::MatrixXd & V,
   const Eigen::MatrixXi & F,
@@ -122,12 +130,7 @@ void catmull_clark(
 
   //NEED TO CONNECT 
   
-  /*
-  Note:
-  I could not finish this task, and neither did most of my classmates.The average for this assignment is much lower than other assignments (~87%), and I still managed to receive 90.5% for this assignment.
-  so it its ok! Don't worry about this part.
-  It is not worth wasting your time on this part. 
-  */
+
 
 
 
