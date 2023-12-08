@@ -121,6 +121,13 @@ void catmull_clark(
   SV.resize(surface_midpoint_list.size()+new_vertices_list.size()+new_edge_midpoint_list.size(),4);
 
   //NEED TO CONNECT 
+  
+  /*
+  Note:
+  I could not finish this task, and neither did most of my classmates.The average for this assignment is much lower than other assignments (~87%), and I still managed to receive 90.5% for this assignment.
+  so it its ok! Don't worry about this part.
+  It is not worth wasting your time on this part. 
+  */
 
 
 
